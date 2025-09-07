@@ -1,9 +1,9 @@
 # **Personal Assistent (CLI)**
 
 This project is a console application which allows:
--add, change and view contacts
--add and view birthday 
--remind about nearest birthdays (7 day)
+- add, change and view contacts
+- add and view birthday 
+- remind about nearest birthdays (7 day)
 - if the birthday falls on a weekend - move the date of congratulations to Monday
 
  ##  **Technologies used**
