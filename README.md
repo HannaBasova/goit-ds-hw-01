@@ -31,7 +31,7 @@ poetry install
 ## **How to run in Docker**
 1. Build the image:
    ```bash
-   docker build -t annabasova/goit-ds-hw-01:latest
+   docker build -t annabasova/goit-ds-hw-01:latest .
    ```
 2. Run the container in interactivw mode:
    ```bash
