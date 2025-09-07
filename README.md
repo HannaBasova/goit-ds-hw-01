@@ -7,9 +7,9 @@ This project is a console application which allows:
 - if the birthday falls on a weekend - move the date of congratulations to Monday
 
  ##  **Technologies used**
-Python 3.13.5
-Poetry (dependency managment)
-Docker (containerization)
+- Python 3.13.5
+- Poetry (dependency managment)
+- Docker (containerization)
 
 ## **How to run locally (without Docker)**
 
